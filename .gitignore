@@ -16,7 +16,6 @@
 
 # misc
 .DS_Store
-.env.*
 .dockerignore
 *.lock
 npm-debug.log*
